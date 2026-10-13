@@ -1,0 +1,2 @@
+cd /workspaces/bren4ireland.github.io/zscaler-mcp-server
+uv run zscaler-mcp

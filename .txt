@@ -1,2 +1,3 @@
 cd /workspaces/bren4ireland.github.io/zscaler-mcp-server
 uv run zscaler-mcp
+docker run --rm -i   --env-file /workspaces/bren4ireland.github.io/zscaler-mcp-server/.env   zscaler-mcp-server
